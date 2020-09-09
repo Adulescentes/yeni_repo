@@ -1,2 +1,3 @@
 print("Ahmet KORKMAZ")
+print("Merhaba")
 y = input(" ")
